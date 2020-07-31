@@ -1,0 +1,5 @@
+Name: s   Score:     0   Size:      1
+Name: shruti   Score:     1   Size:      2
+Name: shruti   Score:     0   Size:      1
+Name: e   Score:     0   Size:      1
+Name: s   Score:     0   Size:      1
